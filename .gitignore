@@ -1,0 +1,22 @@
+# django database
+db.sqlite3
+*.sqlite3
+
+# python files
+__pychache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtual envirment
+.venv/
+
+# poycharm files
+.idea
+
+# transient files
+*.log
+*.bak
+
+# test files
+*.pytest_cache/
